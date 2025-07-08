@@ -1,12 +1,13 @@
+## 🐍 Snake dos meus commits
 
+<!-- Versão para tema claro -->
+![Snake animation](https://github.com/Nettovz/Nettovz/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nettovz/Nettovz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nettovz/Nettovz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nettovz/Nettovz/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Versão para tema escuro -->
+![Snake dark](https://github.com/Nettovz/Nettovz/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<!-- Versão "ocean" azul -->
+![Snake ocean](https://github.com/Nettovz/Nettovz/blob/output/github-contribution-grid-snake-ocean.svg)
 
 ![Nettovz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nettovz&show_icons=true&theme=radical)
 
