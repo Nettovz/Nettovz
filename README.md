@@ -5,8 +5,7 @@
 
 
 
-<!-- Versão "ocean" azul -->
-![Snake ocean](https://github.com/Nettovz/Nettovz/blob/output/github-contribution-grid-snake-ocean.svg)
+
 
 ![Nettovz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nettovz&show_icons=true&theme=radical)
 
