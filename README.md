@@ -7,4 +7,6 @@
 </picture>
 
 
+## 📊 Estatísticas do GitHub
+
 ![Nettovz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nettovz&show_icons=true&theme=radical)
