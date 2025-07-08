@@ -10,3 +10,7 @@
 ## 📊 Estatísticas do GitHub
 
 ![Nettovz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nettovz&show_icons=true&theme=radical)
+
+## 🧠 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nettovz&layout=compact&theme=radical)
