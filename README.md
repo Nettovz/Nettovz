@@ -1,4 +1,3 @@
-## 🐍 Snake dos meus commits
 
 <!-- Versão para tema claro -->
 ![Snake animation](https://github.com/Nettovz/Nettovz/blob/output/github-contribution-grid-snake.svg)
